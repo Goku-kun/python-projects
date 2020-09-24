@@ -1,0 +1,14 @@
+1. NASA
+https://api.nasa.gov/index.html
+
+2. Custom APIs (jservice)
+https://jservice.io/
+
+3. Information about Countries
+https://restcountries.eu/
+
+4. Translations from Fiction
+https://funtranslations.com/api/
+
+5. MixMatch Music
+https://developer.musixmatch.com/documentation
