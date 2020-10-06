@@ -1,0 +1,2175 @@
+[{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.google.android.apps.restore"
+    },
+    "firstInstallationTime": "2019-10-13T21:07:40.859026Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-10-02T05:33:23.396Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.google.android.apps.restore"
+    },
+    "firstInstallationTime": "2019-09-17T17:10:55.570004Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-10-05T04:12:39.660Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.google.android.apps.restore"
+    },
+    "firstInstallationTime": "2019-08-23T08:10:47.045004Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-15T19:47:21.594Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.google.android.apps.restore"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223005Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-13T06:29:24.146Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google TV (previously Play Movies \u0026 TV)"
+    },
+    "firstInstallationTime": "2019-08-23T08:10:47.045014Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-15T19:47:21.594Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google TV (previously Play Movies \u0026 TV)"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223015Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-13T06:29:24.146Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.miui.securitycenter"
+    },
+    "firstInstallationTime": "2020-06-30T14:39:04.319Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-10-02T05:33:23.396Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.miui.securitycenter"
+    },
+    "firstInstallationTime": "2020-07-06T01:24:56.017Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-10-05T04:12:39.660Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Weather - By Xiaomi"
+    },
+    "firstInstallationTime": "2020-04-09T11:07:54.946Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-10-02T05:33:23.396Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Weather - By Xiaomi"
+    },
+    "firstInstallationTime": "2020-04-02T03:46:06.920Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-10-05T04:12:39.660Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2019-10-13T21:07:40.859030Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-10-01T02:06:46.578Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2019-09-17T17:10:55.570008Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-10-01T00:41:31.806Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2019-08-22T16:19:36.923008Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-04T18:07:44.811Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-03T18:41:00.515Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Instagram"
+    },
+    "firstInstallationTime": "2019-09-03T18:41:00.515002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-03T18:41:00.515Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Instagram"
+    },
+    "firstInstallationTime": "2019-08-29T08:14:13.265Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-29T08:14:13.265Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Need for Speed™ No Limits"
+    },
+    "firstInstallationTime": "2019-08-22T16:19:36.923001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T16:19:36.923Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Need for Speed™ No Limits"
+    },
+    "firstInstallationTime": "2019-08-21T07:58:52.700Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-21T07:58:52.700Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mi Music"
+    },
+    "firstInstallationTime": "2019-09-17T17:10:55.570019Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-10-05T04:12:39.660Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mi Music"
+    },
+    "firstInstallationTime": "2019-10-13T21:07:40.859041Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-08-17T15:58:27.360Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mi Music"
+    },
+    "firstInstallationTime": "2019-08-22T16:19:36.923012Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T16:19:36.923Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mi Music"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223020Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T00:18:15.973Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2019-09-17T17:10:55.570013Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-24T15:07:30.443Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2019-10-13T21:07:40.859035Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:52:50.586Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2019-08-22T16:19:36.923009Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T16:19:36.923Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223014Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T00:19:18.440Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "ShareMe  - #1 file sharing \u0026 data transfer app"
+    },
+    "firstInstallationTime": "2019-09-17T17:10:55.570021Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-08-26T14:06:49.738Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "ShareMe  - #1 file sharing \u0026 data transfer app"
+    },
+    "firstInstallationTime": "2019-10-13T21:07:40.859043Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-08-19T01:55:10.694Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "ShareMe  - #1 file sharing \u0026 data transfer app"
+    },
+    "firstInstallationTime": "2019-08-22T16:19:36.923016Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T16:19:36.923Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "ShareMe  - #1 file sharing \u0026 data transfer app"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223022Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T00:19:18.440Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Drive"
+    },
+    "firstInstallationTime": "2019-11-21T14:10:03.999Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-24T15:07:30.443Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Drive"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904007Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:46:59.786Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Drive"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-03T18:41:00.515Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Drive"
+    },
+    "firstInstallationTime": "2019-08-22T16:19:36.923002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-01T19:43:14.865Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Maps - Navigate \u0026 Explore"
+    },
+    "firstInstallationTime": "2019-09-17T17:10:55.570002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-10-05T04:12:39.660Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Maps - Navigate \u0026 Explore"
+    },
+    "firstInstallationTime": "2019-10-13T21:07:40.859024Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:47:33.284Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Maps - Navigate \u0026 Explore"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223003Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-03T18:41:00.515Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Maps - Navigate \u0026 Explore"
+    },
+    "firstInstallationTime": "2019-08-22T16:19:36.923003Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-01T19:42:43.908Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Duo - High Quality Video Calls"
+    },
+    "firstInstallationTime": "2019-09-17T17:10:55.570005Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-10-05T04:12:39.660Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Duo - High Quality Video Calls"
+    },
+    "firstInstallationTime": "2019-10-13T21:07:40.859027Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:48:52.603Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Duo - High Quality Video Calls"
+    },
+    "firstInstallationTime": "2019-08-22T16:19:36.923005Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T16:19:36.923Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Duo - High Quality Video Calls"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223006Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T00:20:36.583Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "App vault"
+    },
+    "firstInstallationTime": "2019-08-22T16:19:36.923011Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T16:19:36.923Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "App vault"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223018Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T00:20:36.583Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gmail"
+    },
+    "firstInstallationTime": "2019-09-17T17:10:55.570007Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-24T15:07:30.443Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gmail"
+    },
+    "firstInstallationTime": "2020-02-10T09:07:16.987001Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:50:01.557Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gmail"
+    },
+    "firstInstallationTime": "2019-08-22T16:19:36.923007Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T16:19:36.923Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gmail"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223008Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T00:21:19.179Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Photos"
+    },
+    "firstInstallationTime": "2020-02-10T21:56:53.023002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-24T15:07:30.443Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Photos"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904010Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:48:09.449Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Photos"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223004Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-03T18:41:00.515Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Photos"
+    },
+    "firstInstallationTime": "2019-08-22T16:19:36.923004Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-01T19:41:22.690Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: Fast \u0026 Secure"
+    },
+    "firstInstallationTime": "2019-09-17T17:10:55.570Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-10-05T04:12:39.660Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: Fast \u0026 Secure"
+    },
+    "firstInstallationTime": "2019-10-13T21:07:40.859022Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:44:50.876Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: Fast \u0026 Secure"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-03T18:41:00.515Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: Fast \u0026 Secure"
+    },
+    "firstInstallationTime": "2019-08-22T16:19:36.923Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-01T19:40:26.821Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube"
+    },
+    "firstInstallationTime": "2019-09-17T17:10:55.570015Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-10-05T04:12:39.660Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube"
+    },
+    "firstInstallationTime": "2019-10-13T21:07:40.859037Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-09-02T02:04:54.128Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223016Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-03T18:41:00.515Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube"
+    },
+    "firstInstallationTime": "2019-08-22T16:19:36.923010Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-01T19:38:59.049Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Device Health Services"
+    },
+    "firstInstallationTime": "2019-10-13T21:07:40.859028Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T20:24:35.904Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Device Health Services"
+    },
+    "firstInstallationTime": "2019-09-17T17:10:55.570006Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-06-24T13:56:48.476Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Device Health Services"
+    },
+    "firstInstallationTime": "2019-08-22T16:19:36.923006Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T16:19:36.923Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Device Health Services"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223007Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T00:24:10.516Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mi Video"
+    },
+    "firstInstallationTime": "2019-10-13T21:07:40.859042Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T20:24:35.904Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mi Video"
+    },
+    "firstInstallationTime": "2020-06-18T15:01:13.331Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-06-18T15:01:13.331Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mi Video"
+    },
+    "firstInstallationTime": "2019-08-22T16:19:36.923013Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T16:19:36.923Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mi Video"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223021Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T00:24:56.241Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "MyJio: For Everything Jio"
+    },
+    "firstInstallationTime": "2020-06-07T10:19:04.414001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-24T15:07:30.443Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "MyJio: For Everything Jio"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904027Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:54:42.963Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "MyJio: For Everything Jio"
+    },
+    "firstInstallationTime": "2019-09-03T18:41:00.515003Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-03T18:41:00.515Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "MyJio: For Everything Jio"
+    },
+    "firstInstallationTime": "2019-08-22T16:50:24.123Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-22T16:50:24.123Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "TikTok - Trends Start Here"
+    },
+    "firstInstallationTime": "2019-09-03T18:41:00.515006Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-03T18:41:00.515Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "TikTok - Trends Start Here"
+    },
+    "firstInstallationTime": "2019-08-29T19:32:29.247Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-29T19:32:29.247Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Flipkart Online Shopping App"
+    },
+    "firstInstallationTime": "2020-05-14T04:35:28.537002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-24T15:07:30.443Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Flipkart Online Shopping App"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904006Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:46:26.977Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Flipkart Online Shopping App"
+    },
+    "firstInstallationTime": "2019-09-03T18:41:00.515Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-03T18:41:00.515Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Flipkart Online Shopping App"
+    },
+    "firstInstallationTime": "2019-08-29T19:31:47.038Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-01T19:37:36.213Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play Music"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223013Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-03T18:41:00.515Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play Music"
+    },
+    "firstInstallationTime": "2019-08-23T08:10:47.045012Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-01T19:44:01.005Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "File Manager : free and easily"
+    },
+    "firstInstallationTime": "2019-09-17T17:10:55.570016Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-10-05T04:12:39.660Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "File Manager : free and easily"
+    },
+    "firstInstallationTime": "2019-10-13T21:07:40.859038Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:54:42.963Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "File Manager : free and easily"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223017Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-03T18:41:00.515Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "File Manager : free and easily"
+    },
+    "firstInstallationTime": "2019-08-23T08:10:47.045016Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-01T19:44:01.005Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Ganesh Ringtones"
+    },
+    "firstInstallationTime": "2019-09-03T18:41:00.515005Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-03T18:41:00.515Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Ganesh Ringtones"
+    },
+    "firstInstallationTime": "2019-09-02T10:02:46.754Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-02T10:02:46.754Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "mParivahan"
+    },
+    "firstInstallationTime": "2019-09-17T18:57:16.045Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-24T15:07:30.443Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "mParivahan"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904035Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:55:49.651Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "mParivahan"
+    },
+    "firstInstallationTime": "2019-09-14T07:09:26.600Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-14T07:09:26.600Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Truecaller: Caller ID, block fraud \u0026 scam calls"
+    },
+    "firstInstallationTime": "2020-10-05T04:12:39.660Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-10-05T04:12:39.660Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Truecaller: Caller ID, block fraud \u0026 scam calls"
+    },
+    "firstInstallationTime": "2020-10-02T05:33:23.396Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-10-02T05:33:23.396Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "MX Player"
+    },
+    "firstInstallationTime": "2019-09-15T19:47:21.594Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-15T19:47:21.594Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "WhatsApp Messenger"
+    },
+    "firstInstallationTime": "2019-09-17T18:51:01.354Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-24T15:07:30.443Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "WhatsApp Messenger"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904043Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:57:18.233Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "MyHRMS"
+    },
+    "firstInstallationTime": "2019-09-17T18:52:51.093Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-24T15:07:30.443Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "MyHRMS"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904039Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:56:34.215Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "IRCTC Train Booking, PNR, Live Status - RailYatri"
+    },
+    "firstInstallationTime": "2019-09-17T18:55:01.120Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-24T15:07:30.443Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "IRCTC Train Booking, PNR, Live Status - RailYatri"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904036Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:56:34.215Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Xender - Share Music\u0026Video,Status Saver,Transfer"
+    },
+    "firstInstallationTime": "2019-09-19T09:28:58.583Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-09-12T01:59:46.164Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Xender - Share Music\u0026Video,Status Saver,Transfer"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-09-11T08:47:20.230Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Amazon Shopping, UPI, Money Transfer, Bill Payment"
+    },
+    "firstInstallationTime": "2020-05-26T10:14:32.063Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-24T15:07:30.443Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Amazon Shopping, UPI, Money Transfer, Bill Payment"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904047Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:58:40.512Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Facebook"
+    },
+    "firstInstallationTime": "2019-10-11T09:10:28.049Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-10-05T04:12:39.660Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Facebook"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904005Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-09-25T12:04:26.721Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play Games"
+    },
+    "firstInstallationTime": "2019-10-26T09:08:05.414Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-24T15:07:30.443Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play Games"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904021Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:52:50.586Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gboard - the Google Keyboard"
+    },
+    "firstInstallationTime": "2019-10-13T21:07:40.859032Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T20:24:35.904Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gboard - the Google Keyboard"
+    },
+    "firstInstallationTime": "2019-09-17T17:10:55.570010Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-06T01:56:38.985Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gboard - the Google Keyboard"
+    },
+    "firstInstallationTime": "2019-08-23T08:10:47.045010Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-15T19:47:21.594Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gboard - the Google Keyboard"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223011Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-13T06:29:24.146Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "ABP Live TV News - Latest Hindi India News App"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904044Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-08-17T15:58:27.360Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "ABP Live TV News - Latest Hindi India News App"
+    },
+    "firstInstallationTime": "2020-06-19T14:56:59.160Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-08-11T11:09:35.738Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google"
+    },
+    "firstInstallationTime": "2019-09-17T17:10:55.570009Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-10-05T04:12:39.660Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google"
+    },
+    "firstInstallationTime": "2019-10-13T21:07:40.859031Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:52:02.649Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google"
+    },
+    "firstInstallationTime": "2019-08-23T08:10:47.045009Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-15T19:47:21.594Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223010Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-13T06:29:24.146Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Digital Wellbeing"
+    },
+    "firstInstallationTime": "2019-11-21T14:10:03.999003Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-10-05T04:12:39.660Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Digital Wellbeing"
+    },
+    "firstInstallationTime": "2020-01-17T23:04:47.770002Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T20:24:35.904Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Android Accessibility Suite"
+    },
+    "firstInstallationTime": "2019-10-13T21:07:40.859033Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T20:24:35.904Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Android Accessibility Suite"
+    },
+    "firstInstallationTime": "2019-09-17T17:10:55.570011Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-05-14T04:35:28.537Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Android Accessibility Suite"
+    },
+    "firstInstallationTime": "2019-08-23T08:10:47.045011Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-15T19:47:21.594Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Android Accessibility Suite"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223012Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-13T06:29:24.146Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "App Vault"
+    },
+    "firstInstallationTime": "2020-01-17T23:04:47.770003Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-10-02T05:33:23.396Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "App Vault"
+    },
+    "firstInstallationTime": "2019-11-21T14:10:03.999004Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-10-05T04:12:39.660Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mi Calculator"
+    },
+    "firstInstallationTime": "2019-09-17T17:10:55.570018Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-10-05T04:12:39.660Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mi Calculator"
+    },
+    "firstInstallationTime": "2019-10-13T21:07:40.859040Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:55:15.585Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mi Calculator"
+    },
+    "firstInstallationTime": "2019-08-23T08:10:47.045018Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-15T19:47:21.594Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mi Calculator"
+    },
+    "firstInstallationTime": "2019-08-20T09:15:40.223019Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-13T06:29:24.146Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YONO SBI: The Mobile Banking and Lifestyle App!"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904038Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-08-17T15:58:27.360Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YONO SBI: The Mobile Banking and Lifestyle App!"
+    },
+    "firstInstallationTime": "2020-03-11T06:23:45.108Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-08-11T11:07:59.528Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "ZOOM Cloud Meetings"
+    },
+    "firstInstallationTime": "2020-05-14T04:35:28.537012Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-09-07T00:49:00.924Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "ZOOM Cloud Meetings"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904050Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-09-06T14:54:26.281Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Telegram"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904049Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-08-02T06:36:16.397Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Telegram"
+    },
+    "firstInstallationTime": "2020-06-07T10:19:04.414006Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-31T14:09:11.151Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Modi Schools"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904034Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T20:24:35.904Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Modi Schools"
+    },
+    "firstInstallationTime": "2020-05-29T10:34:47.002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-05T22:11:05.830Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Trishul News"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904041Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T20:24:35.904Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Trishul News"
+    },
+    "firstInstallationTime": "2020-06-07T10:19:04.414003Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-06-07T10:19:04.414Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Sandesh Epaper"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904037Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T20:24:35.904Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Sandesh Epaper"
+    },
+    "firstInstallationTime": "2020-06-07T10:19:04.414002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-06-29T02:46:00.700Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Akilanews.com Official"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904001Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T20:24:35.904Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Akilanews.com Official"
+    },
+    "firstInstallationTime": "2020-06-07T10:19:04.414Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-06-07T10:19:04.414Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Public - Indian Local Videos"
+    },
+    "firstInstallationTime": "2020-06-19T14:51:35.500Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-24T15:07:30.443Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Public - Indian Local Videos"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904004Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:45:34.675Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Aaj Tak Live TV News - Latest Hindi India News App"
+    },
+    "firstInstallationTime": "2020-06-19T14:59:55.797Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-24T15:07:30.443Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Aaj Tak Live TV News - Latest Hindi India News App"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904046Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:57:56.476Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "TV9 Gujarati"
+    },
+    "firstInstallationTime": "2020-06-19T15:03:13.619Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-07-24T15:07:30.443Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "TV9 Gujarati"
+    },
+    "firstInstallationTime": "2020-07-14T20:24:35.904003Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-07-14T21:45:34.675Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Classroom"
+    },
+    "firstInstallationTime": "2020-08-01T11:52:53.965Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-09-07T00:49:00.924Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Classroom"
+    },
+    "firstInstallationTime": "2020-08-02T06:36:16.397Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-09-02T02:05:48.456Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Docs"
+    },
+    "firstInstallationTime": "2020-08-26T14:06:49.738001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-08-26T14:06:49.738Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Docs"
+    },
+    "firstInstallationTime": "2020-08-19T00:47:45.243Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-08-19T00:47:45.243Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "CamScanner"
+    },
+    "firstInstallationTime": "2020-08-26T14:06:49.738Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-08-26T14:06:49.738Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "CamScanner"
+    },
+    "firstInstallationTime": "2020-08-24T02:04:10.318Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-08-24T02:04:10.318Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Divya Bhaskar: Gujarati Epaper, Local \u0026 Video News"
+    },
+    "firstInstallationTime": "2020-09-12T01:59:46.164001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-09-12T01:59:46.164Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Divya Bhaskar: Gujarati Epaper, Local \u0026 Video News"
+    },
+    "firstInstallationTime": "2020-09-10T14:56:24.488Z",
+    "deviceAttribute": {
+      "model": "Redmi Note 5 Pro",
+      "carrier": "Reliance Jio",
+      "manufacturer": "Xiaomi",
+      "deviceDisplayName": "Xiaomi Redmi Note 5 Pro"
+    },
+    "lastUpdateTime": "2020-09-10T14:56:24.488Z"
+  }
+}]
