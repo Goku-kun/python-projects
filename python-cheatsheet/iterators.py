@@ -20,3 +20,5 @@ for i in range(N):
     print(i, end=' ')
 
 # It would be a waste of memory if the range(10**12) amount of memory was occupied when only the memory needed was for the first ten values.
+
+# The examples of other iterators could be enumerate, zip, filter, and map.
