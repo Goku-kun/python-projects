@@ -25,8 +25,6 @@ with open('episode.html', 'w') as f:
 
 video_link = parsed_episode.find_all('source', src=True)[0]['src']
 
-# video = requests.get(video_link).content
-
 r = requests.get(video_link, stream=True)
 
 # download started
